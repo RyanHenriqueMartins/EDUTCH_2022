@@ -1,12 +1,22 @@
 header {
+    
+    top: 0;
     background:  #0d515e;
-
     padding:20px 10px;
+    
+}
+
+.caixa{
+    
+    top: 0;
+    left: 0;
+    width: 100%;
+    box-sizing: 0  2px  7px rgba (0,0,0,0.2);
 }
 
 img {
     width: 100px;
-   margin-left: -350px;
+   margin-left: 0px;
 }
 
 .caixa {
@@ -19,6 +29,7 @@ nav {
     position: absolute;
     top: 0;
     right: 0;
+    
 }
 
 nav li {
